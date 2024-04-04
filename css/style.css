@@ -953,7 +953,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:100px;
 }
 .F2 {
     width: 100%;
@@ -962,7 +961,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:100px;
 }
 .F3 {
     width: 100%;
@@ -971,7 +969,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .f4 {
     width: 100%;
@@ -980,7 +977,7 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
+    padding-bottom: 300px;
 }
 .F5 {
     width: 100%;
@@ -989,7 +986,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .F6 {
     width: 100%;
@@ -998,7 +994,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .F7 {
     width: 100%;
@@ -1007,7 +1002,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .F8 {
     width: 100%;
@@ -1016,7 +1010,7 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
+    padding-bottom:100px;
 }
 .F9 {
     width: 100%;
@@ -1025,7 +1019,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .F10 {
     width: 100%;
@@ -1034,7 +1027,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .F13 {
     width: 100%;
@@ -1043,7 +1035,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .F14 {
     width: 100%;
@@ -1052,7 +1043,6 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
 }
 .FRED {
     width: 100%;
@@ -1061,7 +1051,14 @@ Film OP
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
-    padding-bottom:1000px;
+}   
+.image_2{
+    width: 100%;
+    float: left;
+    background-image: url(../images/image_2.jpg);
+    height: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
 }   
 
   
